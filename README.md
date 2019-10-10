@@ -43,5 +43,4 @@ Interactive Frontend Development - From JavaScript to jQuery
             -   Query the font-family in elements
             -   To change the content and styling of elements
 
-4. Writing jQuery script in IDE
 
