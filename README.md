@@ -4,7 +4,7 @@ Interactive Frontend Development - From JavaScript to jQuery
 
 ## jQuery Introduction
 
-### Items covered on this course:
+### Items I covered on this course:
 
 1.  Downloading jQuery
 -   How to download the jQuery library
