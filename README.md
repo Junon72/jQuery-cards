@@ -16,7 +16,7 @@ Interactive Frontend Development - From JavaScript to jQuery
 2.  jQuery Selectors - using web browser console
 -   jQuery Cards learning example
     -   Learning example code in my GitHub:
-        -  [Download jQuery](https://jquery.com/download/) 
+        -  [jQuery Cards](https://github.com/Junon72/jQuery-cards) 
     -   Accessing html element with jQuery
     -   Challenges:
         -   Retreived elements based on their type, class and ID
